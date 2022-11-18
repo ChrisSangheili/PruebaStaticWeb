@@ -1,0 +1,5 @@
+com.mx.findur.incumplimientos
+com.mx.findur.incumplimientos.dao
+com.mx.findur.incumplimientos.controller
+com.mx.findur.incumplimientos.service
+com.mx.findur.incumplimientos.domain
